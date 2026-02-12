@@ -1,17 +1,16 @@
 # Orthopedics Analytics Dashboard 2023 (Excel)
 ## Project Overview
-This project involves the analysis of a Coffee Order Dataset to uncover sales trends, customer insights, and performance across countries and product categories. The primary objective was to clean and transform raw data, generate meaningful insights using pivot tables, and present the results through an interactive Excel dashboard.
+The Orthopedics Analytics Dashboard (2023) is an Excel-based data analysis project focused on evaluating patient volume, satisfaction scores, and wait times for the Orthopedics department using 2023 healthcare data. The project involved data cleaning, creation of time-based columns, and development of an interactive dashboard to generate actionable operational insights.
 ## Project Objective
-To analyze and visualize coffee sales data in order to identify sales trends, top-performing markets, high-value customers, and product preferences using Microsoft Excel.
+To analyze 2023 patient data for the Orthopedics department in order to evaluate patient volume, satisfaction levels, and wait times, and to generate actionable insights that support performance monitoring and operational improvement using Microsoft Excel.
 ## Business Questions
-- How does total coffee sales vary across the United States, Ireland, and the United Kingdom?
-  Insight Enabled By: Sales by Country Chart
-- Are coffee sales increasing, declining, or seasonal over time?
-- How do different coffee types (Arabica, Robusta, Excelsa, Liberica) perform over time?
-- Which customers generate the highest revenue?
-- Do customers with loyalty cards generate higher sales compared to non-loyalty customers?
-- Which roast types (Light, Medium, Dark) generate the highest sales?
-- Which product sizes contribute most to total sales?
+- What was the overall performance of the Orthopedics department in 2023?
+- How did patient satisfaction vary month by month?
+- How many patients visited the Orthopedics department each month?
+- Which age group required Orthopedic services the most?
+- Does patient volume affect wait time?
+- What days of the week experience higher patient traffic?
+- During which time frame do we experience longer wait times?
 - Dashboard Interaction <a href="https://github.com/sikaleg/Coffee-Sales-Analysis-MS-Excel-/blob/main/Coffee%20Orders%20Project.xlsx">View Dashboard </a>
 ## Dataset Description
 Dataset Used <a href="https://github.com/sikaleg/Coffee-Sales-Analysis-MS-Excel-/blob/main/Coffee%20Orders%20Dataset.xlsx"> Dataset </a>  </br>  </br>
