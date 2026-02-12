@@ -12,15 +12,24 @@ To analyze 2023 patient data for the Orthopedics department in order to evaluate
 - What days of the week experience higher patient traffic?
 - During which time frame do we experience longer wait times?
 - Dashboard Interaction <a href="https://github.com/sikaleg/Orthopedics-Analytics-Dashboard-2023-Excel-Data-Analysis-Project/blob/main/Orthopedics%20Analytics%20Project.xlsx">View Dashboard </a>
+## KPIs (Key Performance Indicators)
+The dashboard includes three key metrics:
+- ✅ Number of Patients
+- ⭐ Average Patient Satisfaction Score
+- ⏱ Average Wait Time (minutes)
 ## Dataset Description
 Dataset Used <a href="https://github.com/sikaleg/Orthopedics-Analytics-Dashboard-2023-Excel-Data-Analysis-Project/blob/main/Orthopedic%20Dataset.xlsx"> Dataset </a>  </br>  </br>
-The dataset contains transactional, customer, and demographic information, including:
-- Order ID, Order Date
-- Customer ID, Customer Name, Email
-- Product ID, Coffee Type, Roast Type, Size
-- Quantity, Unit Price
-- Country (United States, Ireland, United Kingdom)
-- Loyalty Card (Yes/No)
+The dataset contains the following patient information:
+- date
+- patient_id
+- patient_gender
+- patient_age
+- patient_sat_score
+- patient_last_name
+- patient_race
+- patient_admin_flag
+- patient_wait_time
+- department_referral
 ## Tools & Skills USed
 - Microsoft Excel
 - Data Cleaning & Transformation
@@ -33,7 +42,8 @@ The dataset contains transactional, customer, and demographic information, inclu
 - Merge all pivot tables into one dashboard and apply slicers to make dynamic.
 
 ## Dashboard
-<img width="807" height="419" alt="Screenshot 2026-01-29 173029" src="https://github.com/user-attachments/assets/3754cd73-2b7e-47a1-be90-8017dd111995" />
+<img width="632" height="426" alt="Screenshot 2026-02-12 141143" src="https://github.com/user-attachments/assets/243f1533-bb97-4021-9ec3-5f06f51cce11" />
+
 
 ## Key Insight
 The Coffee Sales analysis shows that total sales of $45,134 are heavily driven by the United States ($35,639, 79%), with Ireland ($6,697, 15%) and the United Kingdom ($2,799, 6%) contributing less. Sales peaked in 2021 ($13,766), with February 2020 as the highest month ($1,798) and August 2022 the lowest ($244), indicating seasonal variations. Coffee type performance was relatively balanced, with Robusta ($12,306), Excelsa ($12,054), and Arabica ($11,768) leading, while Liberica ($9,005) lagged. Non-loyalty customers contributed slightly more revenue ($24,216, 54%) than loyalty customers ($20,918, 46%), suggesting opportunities to strengthen loyalty adoption. Light roast ($17,354) and 2.5 kg products ($23,789) were the top-performing product attributes, highlighting customer preference for lighter roasts and bulk purchases. Overall, the dashboard identifies key markets, products, and customer segments that drive revenue and supports data-driven business decisions.
