@@ -54,7 +54,6 @@ Analysis of Orthopedics referrals in 2023 revealed important patterns in patient
 - Patient traffic also varied by day of the week and time frame, presenting opportunities to optimize staff allocation and improve service efficiency during busier periods.
 
 Overall, these insights provide actionable guidance for hospital administrators to enhance patient experience, allocate resources efficiently, and manage department workflow effectively.
-
 ## Author
 Godwin Sikale | Data Analyst
 ## Conclusion
